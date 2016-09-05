@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/nek5/!svn/ver/1064/examples/3d_annulus
+END
+makenek
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/nek5/!svn/ver/1064/examples/3d_annulus/makenek
+END
+3da.rea
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/nek5/!svn/ver/1064/examples/3d_annulus/3da.rea
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/nek5/!svn/ver/1064/examples/3d_annulus/README
+END
+3da.box
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/nek5/!svn/ver/1064/examples/3d_annulus/3da.box
+END
+one3d.rea
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/nek5/!svn/ver/1064/examples/3d_annulus/one3d.rea
+END
+3da.usr
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/nek5/!svn/ver/1064/examples/3d_annulus/3da.usr
+END
+3da.map
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/nek5/!svn/ver/1064/examples/3d_annulus/3da.map
+END
+run
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/nek5/!svn/ver/1064/examples/3d_annulus/run
+END
+SIZE
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/nek5/!svn/ver/1064/examples/3d_annulus/SIZE
+END

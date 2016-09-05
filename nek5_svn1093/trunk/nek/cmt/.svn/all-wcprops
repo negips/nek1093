@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/repos/nek5/!svn/ver/1084/trunk/nek/cmt
+END
+intpdiff.f
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/nek5/!svn/ver/1084/trunk/nek/cmt/intpdiff.f
+END
+outflow_bc.f
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/nek5/!svn/ver/1084/trunk/nek/cmt/outflow_bc.f
+END
+wall_bc.f
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/nek5/!svn/ver/1084/trunk/nek/cmt/wall_bc.f
+END
+ausm.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/nek5/!svn/ver/1084/trunk/nek/cmt/ausm.f
+END
+DG
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/nek5/!svn/ver/1084/trunk/nek/cmt/DG
+END
+diagnostics.f
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/nek5/!svn/ver/1084/trunk/nek/cmt/diagnostics.f
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/nek5/!svn/ver/1084/trunk/nek/cmt/README
+END
+filters_cmt.f
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/nek5/!svn/ver/1084/trunk/nek/cmt/filters_cmt.f
+END
+step.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/nek5/!svn/ver/1084/trunk/nek/cmt/step.f
+END
+surface_fluxes.f
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/nek5/!svn/ver/1084/trunk/nek/cmt/surface_fluxes.f
+END
+eqnsolver_cmt.f
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/nek5/!svn/ver/1084/trunk/nek/cmt/eqnsolver_cmt.f
+END
+driver3_cmt.f
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/nek5/!svn/ver/1084/trunk/nek/cmt/driver3_cmt.f
+END
+CMTTIMERS
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/nek5/!svn/ver/1084/trunk/nek/cmt/CMTTIMERS
+END
+bc.f
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/nek5/!svn/ver/1084/trunk/nek/cmt/bc.f
+END
+diffusive_cmt.f
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/nek5/!svn/ver/1084/trunk/nek/cmt/diffusive_cmt.f
+END
+CMTDATA
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/nek5/!svn/ver/1084/trunk/nek/cmt/CMTDATA
+END
+mktar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/nek5/!svn/ver/1084/trunk/nek/cmt/mktar
+END
+drive1_cmt.f
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/nek5/!svn/ver/1084/trunk/nek/cmt/drive1_cmt.f
+END
+face.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/nek5/!svn/ver/1084/trunk/nek/cmt/face.f
+END
+drive2_cmt.f
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/nek5/!svn/ver/1084/trunk/nek/cmt/drive2_cmt.f
+END
+MixtPerf.f
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/nek5/!svn/ver/1084/trunk/nek/cmt/MixtPerf.f
+END
+CMTBCDATA
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/nek5/!svn/ver/1084/trunk/nek/cmt/CMTBCDATA
+END
+PERFECTGAS
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/nek5/!svn/ver/1084/trunk/nek/cmt/PERFECTGAS
+END
+inflow_bc.f
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/nek5/!svn/ver/1084/trunk/nek/cmt/inflow_bc.f
+END

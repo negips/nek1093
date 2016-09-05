@@ -1,0 +1,749 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/repos/nek5/!svn/ver/1093/trunk/nek
+END
+gfdm_solve.f
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/nek5/!svn/ver/949/trunk/nek/gfdm_solve.f
+END
+induct.f
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/nek5/!svn/ver/1046/trunk/nek/induct.f
+END
+makenek
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/nek5/!svn/ver/1083/trunk/nek/makenek
+END
+ORTHOP
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/nek5/!svn/ver/32/trunk/nek/ORTHOP
+END
+math.f
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/nek5/!svn/ver/1079/trunk/nek/math.f
+END
+GMRES
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/repos/nek5/!svn/ver/15/trunk/nek/GMRES
+END
+drive1.f
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/nek5/!svn/ver/1083/trunk/nek/drive1.f
+END
+SCRCT
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/nek5/!svn/ver/237/trunk/nek/SCRCT
+END
+ORTHOT
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/nek5/!svn/ver/15/trunk/nek/ORTHOT
+END
+prepost.f
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/nek5/!svn/ver/1076/trunk/nek/prepost.f
+END
+ORTHOV
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/nek5/!svn/ver/15/trunk/nek/ORTHOV
+END
+SEMHAT
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/nek5/!svn/ver/15/trunk/nek/SEMHAT
+END
+subs2.f
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/nek5/!svn/ver/1041/trunk/nek/subs2.f
+END
+hsmg.f
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/nek5/!svn/ver/1038/trunk/nek/hsmg.f
+END
+conduct.f
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/nek5/!svn/ver/1079/trunk/nek/conduct.f
+END
+mpi_dummy.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/nek5/!svn/ver/934/trunk/nek/mpi_dummy.f
+END
+RESTART
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/nek5/!svn/ver/560/trunk/nek/RESTART
+END
+mxm_wrapper.f
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/nek5/!svn/ver/502/trunk/nek/mxm_wrapper.f
+END
+mpi_dummy.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/nek5/!svn/ver/394/trunk/nek/mpi_dummy.h
+END
+GEOM
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/nek5/!svn/ver/1079/trunk/nek/GEOM
+END
+zero.usr
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/nek5/!svn/ver/983/trunk/nek/zero.usr
+END
+HEADER
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/nek5/!svn/ver/1088/trunk/nek/HEADER
+END
+navier1.f
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/nek5/!svn/ver/1083/trunk/nek/navier1.f
+END
+MVGEOM
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/nek5/!svn/ver/15/trunk/nek/MVGEOM
+END
+navier3.f
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/nek5/!svn/ver/585/trunk/nek/navier3.f
+END
+PARALLEL
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/nek5/!svn/ver/1083/trunk/nek/PARALLEL
+END
+TOPOL
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/repos/nek5/!svn/ver/15/trunk/nek/TOPOL
+END
+navier5.f
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/nek5/!svn/ver/1061/trunk/nek/navier5.f
+END
+DXYZ
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/repos/nek5/!svn/ver/15/trunk/nek/DXYZ
+END
+connect2.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/nek5/!svn/ver/1083/trunk/nek/connect2.f
+END
+FDMH1
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/repos/nek5/!svn/ver/15/trunk/nek/FDMH1
+END
+navier7.f
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/nek5/!svn/ver/15/trunk/nek/navier7.f
+END
+makeq_aux.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/nek5/!svn/ver/512/trunk/nek/makeq_aux.f
+END
+coef.f
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/nek5/!svn/ver/1079/trunk/nek/coef.f
+END
+qthermal.f
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/nek5/!svn/ver/730/trunk/nek/qthermal.f
+END
+fasts.f
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/nek5/!svn/ver/867/trunk/nek/fasts.f
+END
+genxyz.f
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/nek5/!svn/ver/1031/trunk/nek/genxyz.f
+END
+nek_comm.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/nek5/!svn/ver/521/trunk/nek/nek_comm.c
+END
+hmholtz.f
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/nek5/!svn/ver/1083/trunk/nek/hmholtz.f
+END
+NEKNEK
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/nek5/!svn/ver/1083/trunk/nek/NEKNEK
+END
+papi.f
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repos/nek5/!svn/ver/343/trunk/nek/papi.f
+END
+AVG
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/repos/nek5/!svn/ver/374/trunk/nek/AVG
+END
+singlmesh.f
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/nek5/!svn/ver/1068/trunk/nek/singlmesh.f
+END
+calcz.f
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/nek5/!svn/ver/674/trunk/nek/calcz.f
+END
+libk10_mxm.a
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/nek5/!svn/ver/355/trunk/nek/libk10_mxm.a
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/nek5/!svn/ver/448/trunk/nek/LICENSE
+END
+makeq.f
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/nek5/!svn/ver/728/trunk/nek/makeq.f
+END
+mvmesh.f
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/nek5/!svn/ver/955/trunk/nek/mvmesh.f
+END
+makenek.inc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/nek5/!svn/ver/1091/trunk/nek/makenek.inc
+END
+bdry.f
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/nek5/!svn/ver/1083/trunk/nek/bdry.f
+END
+comm_mpi.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/nek5/!svn/ver/1060/trunk/nek/comm_mpi.f
+END
+zero_moab.usr
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/nek5/!svn/ver/983/trunk/nek/zero_moab.usr
+END
+EIGEN
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/repos/nek5/!svn/ver/15/trunk/nek/EIGEN
+END
+makefile.template
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/nek5/!svn/ver/1083/trunk/nek/makefile.template
+END
+ADJOINT
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/nek5/!svn/ver/706/trunk/nek/ADJOINT
+END
+STEADY
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/nek5/!svn/ver/15/trunk/nek/STEADY
+END
+NEKUSE
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/nek5/!svn/ver/1083/trunk/nek/NEKUSE
+END
+TURBO
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/repos/nek5/!svn/ver/15/trunk/nek/TURBO
+END
+pertsupport.f
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/nek5/!svn/ver/1031/trunk/nek/pertsupport.f
+END
+byte_mpi.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/nek5/!svn/ver/1031/trunk/nek/byte_mpi.f
+END
+bg_mxm3.s
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/nek5/!svn/ver/327/trunk/nek/bg_mxm3.s
+END
+HSMG
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/repos/nek5/!svn/ver/949/trunk/nek/HSMG
+END
+lb_setqvol.f
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/nek5/!svn/ver/920/trunk/nek/lb_setqvol.f
+END
+bg_aligned3.s
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/nek5/!svn/ver/327/trunk/nek/bg_aligned3.s
+END
+GLOBALCOM
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/nek5/!svn/ver/677/trunk/nek/GLOBALCOM
+END
+gfdm_op.f
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/nek5/!svn/ver/1049/trunk/nek/gfdm_op.f
+END
+turb.f
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repos/nek5/!svn/ver/705/trunk/nek/turb.f
+END
+gmres.f
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/nek5/!svn/ver/1031/trunk/nek/gmres.f
+END
+DEALIAS
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/nek5/!svn/ver/125/trunk/nek/DEALIAS
+END
+plan4.f
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/nek5/!svn/ver/1066/trunk/nek/plan4.f
+END
+speclib.f
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/nek5/!svn/ver/872/trunk/nek/speclib.f
+END
+genbox.f
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/nek5/!svn/ver/1031/trunk/nek/genbox.f
+END
+WZF
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/repos/nek5/!svn/ver/781/trunk/nek/WZF
+END
+fast3d.f
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/nek5/!svn/ver/781/trunk/nek/fast3d.f
+END
+SOLN
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/repos/nek5/!svn/ver/905/trunk/nek/SOLN
+END
+dssum.f
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/nek5/!svn/ver/1031/trunk/nek/dssum.f
+END
+drive2.f
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/nek5/!svn/ver/1082/trunk/nek/drive2.f
+END
+ZPER
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/repos/nek5/!svn/ver/949/trunk/nek/ZPER
+END
+subs1.f
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/nek5/!svn/ver/1049/trunk/nek/subs1.f
+END
+bg_mxm44.s
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/nek5/!svn/ver/327/trunk/nek/bg_mxm44.s
+END
+TOTAL
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/nek5/!svn/ver/292/trunk/nek/TOTAL
+END
+CTIMER
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/nek5/!svn/ver/1035/trunk/nek/CTIMER
+END
+map2.f
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/nek5/!svn/ver/1031/trunk/nek/map2.f
+END
+convect.f
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/nek5/!svn/ver/1083/trunk/nek/convect.f
+END
+chelpers.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/nek5/!svn/ver/736/trunk/nek/chelpers.c
+END
+OPCTR
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/nek5/!svn/ver/512/trunk/nek/OPCTR
+END
+navier0.f
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/nek5/!svn/ver/1031/trunk/nek/navier0.f
+END
+navier2.f
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/nek5/!svn/ver/228/trunk/nek/navier2.f
+END
+postpro.f
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/nek5/!svn/ver/1049/trunk/nek/postpro.f
+END
+NONCON
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/nek5/!svn/ver/15/trunk/nek/NONCON
+END
+multimesh.f
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/nek5/!svn/ver/1068/trunk/nek/multimesh.f
+END
+eigsolv.f
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/nek5/!svn/ver/1031/trunk/nek/eigsolv.f
+END
+navier4.f
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/nek5/!svn/ver/1093/trunk/nek/navier4.f
+END
+k10_mxm.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/nek5/!svn/ver/354/trunk/nek/k10_mxm.c
+END
+navier6.f
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/nek5/!svn/ver/889/trunk/nek/navier6.f
+END
+connect1.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/nek5/!svn/ver/1079/trunk/nek/connect1.f
+END
+TSTEP
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/nek5/!svn/ver/742/trunk/nek/TSTEP
+END
+cvode_driver.f
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/nek5/!svn/ver/1031/trunk/nek/cvode_driver.f
+END
+navier8.f
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/nek5/!svn/ver/1075/trunk/nek/navier8.f
+END
+cvode_aux.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/nek5/!svn/ver/736/trunk/nek/cvode_aux.f
+END
+MASS
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/repos/nek5/!svn/ver/95/trunk/nek/MASS
+END
+gfdm_par.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/nek5/!svn/ver/1031/trunk/nek/gfdm_par.f
+END
+DOMAIN
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repos/nek5/!svn/ver/429/trunk/nek/DOMAIN
+END
+CMTDATA
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/nek5/!svn/ver/1087/trunk/nek/CMTDATA
+END
+mktar
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/nek5/!svn/ver/292/trunk/nek/mktar
+END
+ic.f
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/nek5/!svn/ver/1092/trunk/nek/ic.f
+END
+setprop.f
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/nek5/!svn/ver/512/trunk/nek/setprop.f
+END
+byte.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repos/nek5/!svn/ver/998/trunk/nek/byte.c
+END
+ESOLV
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/repos/nek5/!svn/ver/15/trunk/nek/ESOLV
+END
+ssolv.f
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/nek5/!svn/ver/1031/trunk/nek/ssolv.f
+END
+edgec.f
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repos/nek5/!svn/ver/15/trunk/nek/edgec.f
+END
+drive.f
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/repos/nek5/!svn/ver/677/trunk/nek/drive.f
+END
+INPUT
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repos/nek5/!svn/ver/1083/trunk/nek/INPUT
+END
+mxm_std.f
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/nek5/!svn/ver/1079/trunk/nek/mxm_std.f
+END
+WZ
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/repos/nek5/!svn/ver/15/trunk/nek/WZ
+END
+VPROJ
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/repos/nek5/!svn/ver/15/trunk/nek/VPROJ
+END
+CVODE
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/nek5/!svn/ver/447/trunk/nek/CVODE
+END
+bg_mxm44_uneven.s
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/nek5/!svn/ver/327/trunk/nek/bg_mxm44_uneven.s
+END
+IXYZ
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/repos/nek5/!svn/ver/95/trunk/nek/IXYZ
+END
+init_plugin.f
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/nek5/!svn/ver/512/trunk/nek/init_plugin.f
+END
+gauss.f
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repos/nek5/!svn/ver/15/trunk/nek/gauss.f
+END
+planx.f
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/repos/nek5/!svn/ver/1049/trunk/nek/planx.f
+END
+ORTHOSTRS
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/repos/nek5/!svn/ver/956/trunk/nek/ORTHOSTRS
+END
+perturb.f
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/nek5/!svn/ver/1049/trunk/nek/perturb.f
+END
